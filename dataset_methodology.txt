@@ -1,0 +1,34 @@
+Race 1:
+
+https://www.youtube.com/watch?v=02VEFVa3C_0 
+https://www.racingpost.com/results/87/wetherby/2024-04-28/864441 
+
+Race 2:
+
+https://www.youtube.com/watch?v=1b0je0omgnE
+https://www.racingpost.com/results/193/navan/2024-04-27/866486
+
+Race 3:
+
+https://www.youtube.com/watch?v=TYBPJ_nwIoI
+https://www.racingpost.com/results/30/leicester/2024-04-27/864423
+
+Race 4: 
+
+https://www.youtube.com/watch?v=qKz0duupIKM
+https://www.racingpost.com/results/54/sandown/2024-04-26/864389
+
+Race 5:
+
+https://www.youtube.com/watch?v=hh2KE21oXHs
+https://www.racingpost.com/results/1079/kempton-aw/2024-01-10/856579
+
+Race 6:
+
+https://www.youtube.com/watch?v=oBhEAjxqDdo
+https://www.racingpost.com/results/1079/kempton-aw/2024-01-03/856510
+
+
+All videos were then edited to remove audio and trimmed to contain only the horse race itself.
+
+Videos were then put into Roboflow for automated annotation, with a sample rate of 1 frame per second being used.

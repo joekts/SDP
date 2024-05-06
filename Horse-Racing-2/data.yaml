@@ -1,0 +1,12 @@
+names:
+- horses-racing
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: horse-racing-3kzni
+  url: https://universe.roboflow.com/horse-racing/horse-racing-3kzni/dataset/2
+  version: 2
+  workspace: horse-racing
+test: ../test/images
+train: ../train/images
+val: ../valid/images
